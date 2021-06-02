@@ -2,4 +2,6 @@
 
 - .txt file are imported in .ipynb
 
-- file_handling.ipynb are the example and their explanation
+- file_handling.ipynb is the example and their explanation
+
+- try_it_yourself.ipynb us the exercise part.
